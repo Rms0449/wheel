@@ -19,7 +19,7 @@ const febHolidays = [
     "There's no one better than you❤️",
     "You're the best baby!!",
     "Or should I say, mo gro coco d'amour que j'adore a la folie XD",
-    "Wow!! Time flies, we've already been together for a many months since oct",
+    "Wow!!Time flies,we've already together fr many months since oct",
     "There's some hardships,doubts uncleared things obv",
     "but we will overcome most of them surely",
     "and ur love made me realised how important you are in my life❤️",
